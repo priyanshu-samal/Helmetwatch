@@ -1,6 +1,6 @@
 # HelmetWatch - Your Ultimate Helmet Detection Solution
 
-![HelmetWatch]([image-placeholder](https://github.com/priyanshu-samal/Helmetwatch/blob/main/assetsMine/1.png))
+![HelmetWatch]((https://github.com/priyanshu-samal/Helmetwatch/blob/main/assetsMine/1.png))
 
 HelmetWatch is an advanced application designed to detect helmet usage using deep learning. The frontend is built with React, offering a seamless and intuitive user experience. The backend leverages AWS services for automated workflow management, ensuring a robust and scalable solution.
 
