@@ -49,24 +49,24 @@ HelmetWatch is an advanced application designed to detect helmet usage using dee
 ## Screenshots
 
 ### Home
-![Home Screenshot](image-placeholder)
+![Home Screenshot](https://github.com/priyanshu-samal/Helmetwatch/blob/main/assetsMine/1.png)
 *Overview of HelmetWatch's features and benefits.*
 
 ### Feature
-![Feature Screenshot](image-placeholder)
+![Feature Screenshot](https://github.com/priyanshu-samal/Helmetwatch/blob/main/assetsMine/2.png)
 *In-depth look at HelmetWatch's features and technologies.*
 
 ### Roadmap
-![Roadmap Screenshot](image-placeholder)
+![Roadmap Screenshot](https://github.com/priyanshu-samal/Helmetwatch/blob/main/assetsMine/3.png)
 *Future plans and updates for HelmetWatch.*
 
 ### About Us
-![About Us Screenshot](image-placeholder)
+![About Us Screenshot](https://github.com/priyanshu-samal/Helmetwatch/blob/main/assetsMine/6.png)
 *Meet the team behind HelmetWatch.*
 
 ## API Documentation
 
-![API Documentation](image-placeholder)
+![API Documentation](https://github.com/priyanshu-samal/Helmetwatch/blob/main/assetsMine/fastApi.jpg)
 *Detailed view of our API endpoints and their usage.*
 
 Thank you for choosing HelmetWatch! Enhance safety with cutting-edge technology.
